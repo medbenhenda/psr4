@@ -16,6 +16,8 @@
     "phpunit/phpunit": "5.2.9"
   },
   "autoload":{
-    "Med\\Psr4\\": "src"
+    "psr-4": {
+      "Med\\Psr4\\": "src"
+    }
   }
 }
